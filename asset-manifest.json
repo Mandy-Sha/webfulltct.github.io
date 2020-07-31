@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d2d59b8d.chunk.css",
+    "main.js": "/static/js/main.6d6e177d.chunk.js",
+    "main.js.map": "/static/js/main.6d6e177d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4b9304c4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4b9304c4.js.map",
+    "static/css/2.18585a14.chunk.css": "/static/css/2.18585a14.chunk.css",
+    "static/js/2.8286b0cd.chunk.js": "/static/js/2.8286b0cd.chunk.js",
+    "static/js/2.8286b0cd.chunk.js.map": "/static/js/2.8286b0cd.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b9b4194e1e8b6e1437f3351cad07799e.js": "/precache-manifest.b9b4194e1e8b6e1437f3351cad07799e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.18585a14.chunk.css.map": "/static/css/2.18585a14.chunk.css.map",
+    "static/css/main.d2d59b8d.chunk.css.map": "/static/css/main.d2d59b8d.chunk.css.map",
+    "static/media/1-3-2.jpg": "/static/media/1-3-2.74eca06c.jpg",
+    "static/media/1.jpg": "/static/media/1.a6c9fded.jpg",
+    "static/media/1520406194323961.jpg": "/static/media/1520406194323961.73f5ff38.jpg",
+    "static/media/155149.53383062_1000.jpg": "/static/media/155149.53383062_1000.9d749bc3.jpg",
+    "static/media/2.jpg": "/static/media/2.aa48c600.jpg",
+    "static/media/3.jpg": "/static/media/3.905eaf0f.jpg",
+    "static/media/4.jpg": "/static/media/4.b7c4547b.jpg",
+    "static/media/5.jpg": "/static/media/5.426d66d8.jpg",
+    "static/media/775a-hxsrwwr3696326.jpg": "/static/media/775a-hxsrwwr3696326.8014034e.jpg",
+    "static/media/responsive.css": "/static/media/Vertical_bg.7d593d5e.png",
+    "static/media/index.css": "/static/media/SamsungOneUI-700_V3.0.4a79fce5.ttf",
+    "static/media/liX4p5kIMnckQ.jpg": "/static/media/liX4p5kIMnckQ.3117a60f.jpg",
+    "static/media/nav_Concert_focus.png": "/static/media/nav_Concert_focus.b218b64e.png",
+    "static/media/nav_Dance_focus.png": "/static/media/nav_Dance_focus.b2d6e52e.png",
+    "static/media/nav_ForYou_focus.png": "/static/media/nav_ForYou_focus.ecbee074.png",
+    "static/media/player_play_focused.webp": "/static/media/player_play_focused.43c04423.webp",
+    "static/media/slick-theme.css": "/static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b9304c4.js",
+    "static/css/2.18585a14.chunk.css",
+    "static/js/2.8286b0cd.chunk.js",
+    "static/css/main.d2d59b8d.chunk.css",
+    "static/js/main.6d6e177d.chunk.js"
+  ]
+}
